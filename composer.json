@@ -1,5 +1,5 @@
 {
-  "name": "codeception/codeception-progress-reporter",
+  "name": "rasstroen/codeception-progress-reporter",
   "license": "MIT",
   "autoload": {
     "psr-4": {
